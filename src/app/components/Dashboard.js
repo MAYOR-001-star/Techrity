@@ -37,7 +37,8 @@ const Dashboard = () => {
                         Welcome Aboard, Blessing <span className="font-bold">👋</span>
                     </p>
                     <p className="text-[#BDBDBD] text-[8px] md:text-base mt-1 md:mt-0">
-                        We're thrilled to have you join Techrity Team!
+                        We&apos;re thrilled to have you join Techrity Team!
+
                     </p>
                 </div>
                 <button className="bg-white text-[#1F0954] rounded-md font-bold text-[10px] md:text-base px-4 py-2 md:w-[12rem]">
