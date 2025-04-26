@@ -85,9 +85,9 @@ const Programs = ({className}) => {
                                     height={70}
                                     className="w-full h-auto rounded"
                                 />
-                                <div className="absolute md:bottom-8 bottom-2 md:left-4 lg:bottom-4 left-2">
+                                <div className="absolute md:bottom-7 bottom-2 md:left-4 lg:bottom-4 left-2">
                                     <p className='font-bold text-xs md:text-3xl lg:text-base my-0.5 text-white break-normal lg:leading-[1.3rem]'>{title}</p>
-                                    <p className={`text-[4px] md:text-[10px] lg:text-[8px] font-bold mt-1 px-0.5 py-0.15 md:px-2 md:py-0.5 w-fit rounded-full md:mt-[1rem] ${item.theme==='• Bootstrap'? 'text-[#0077FF] bg-[#D4E0F3]' : 'text-[#008000] bg-[#D4F3D4]'}`}>
+                                    <p className={`text-[4px] md:text-[10px] lg:text-[8px] font-bold mt-1 px-0.5 py-0.15 md:px-2 md:py-0.5 w-fit rounded-full md:mt-[0.25rem] ${item.theme==='• Bootstrap'? 'text-[#0077FF] bg-[#D4E0F3]' : 'text-[#008000] bg-[#D4F3D4]'}`}>
                                         {theme}
                                     </p>
                                 </div>
