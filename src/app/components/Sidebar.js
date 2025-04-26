@@ -1,7 +1,7 @@
 'use client'
 import React, { useState } from 'react'
 import Image from 'next/image'
-import { useGlobalBoard } from './controller'
+import { useGlobalBoard } from './remote'
 import Link from 'next/link'
 
 const Sidebar = () => {

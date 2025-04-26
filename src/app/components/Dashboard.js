@@ -1,7 +1,7 @@
 'use client'
 import React, { useState } from 'react';
 import Image from 'next/image'
-import { useGlobalBoard } from './controller';
+import { useGlobalBoard } from './remote';
 import Widgets from './Widgets';
 import Programs from './Dashboard/Programs';
 import Users from './Dashboard/Users';

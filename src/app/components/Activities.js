@@ -1,6 +1,6 @@
 'use client'
 import React from 'react';
-import { useGlobalBoard } from './controller';
+import { useGlobalBoard } from './remote';
 
 const Activities = () => {
     const { boardChanger } = useGlobalBoard()
