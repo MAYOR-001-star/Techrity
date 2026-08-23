@@ -36,4 +36,4 @@ Your submission will be evaluated on the following criteria:
 * **Responsiveness:**  How well the application adapts to different screen sizes.
 * **Accessibility:**  Adherence to accessibility guidelines.
 
-We appreciate your time and effort in completing this challenge. Good luck!
+We appreciate your time and effort i
